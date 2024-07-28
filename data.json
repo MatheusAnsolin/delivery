@@ -1,0 +1,19 @@
+{
+    "products": [
+        { "id": 1, "name": "Product 1", "image": "product-placeholder.jpg", "description": "Special offer details..." },
+        { "id": 2, "name": "Product 2", "image": "product-placeholder.jpg", "description": "Special offer details..." }
+    ],
+    "offers": [
+        { "id": 1, "name": "Offer 1", "image": "offer-placeholder.jpg", "description": "Special offer details..." },
+        { "id": 2, "name": "Offer 2", "image": "offer-placeholder.jpg", "description": "Special offer details..." }
+    ],
+    "orders": [
+        { "id": 1, "date": "2024-07-27", "items": ["Product 1", "Offer 1"] },
+        { "id": 2, "date": "2024-07-28", "items": ["Product 2", "Offer 2"] }
+    ],
+    "profile": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "address": "123 Main St, Anytown, USA"
+    }
+}
